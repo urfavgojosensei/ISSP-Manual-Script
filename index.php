@@ -47,7 +47,11 @@
 
       else{
         ?>
+<<<<<<< Updated upstream
         <h1 align="center">Something went wrong! 1212125</h1>
+=======
+        <h1 align="center">55555 Something went wrong! 121212</h1>
+>>>>>>> Stashed changes
         <?php
       }
     ?>
