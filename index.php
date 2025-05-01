@@ -47,7 +47,7 @@
 
       else{
         ?>
-        <h1 align="center">Something went wrong!</h1>
+        <h1 align="center">Something went wrong! 121212</h1>
         <?php
       }
     ?>
